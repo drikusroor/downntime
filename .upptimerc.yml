@@ -29,7 +29,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   scripts:
-    - src: https://drikusroor.github.io/downntime/client/search-bar.js
+    - src: https://drikusroor.github.io/downntime/search-bar.js
       async: true
 
 # Upptime also supports notifications, assigning issues, and more

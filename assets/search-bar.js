@@ -2,7 +2,7 @@ class SearchBar {
   searchInput = null;
 
   constructor() {
-    window.addEventListener("load", this.init());
+    window.addEventListener("load", this.init.bind(this));
   }
 
   init() {

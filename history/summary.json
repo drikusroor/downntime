@@ -78,18 +78,19 @@
     "url": "https://ainab.site",
     "icon": "https://favicons.githubusercontent.com/ainab.site",
     "slug": "ainab-s-corner",
-    "status": "up",
-    "uptime": "99.95%",
+    "status": "down",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1846,
     "timeDay": 2357,
     "timeWeek": 2267,
     "timeMonth": 1846,
     "timeYear": 1846,
     "dailyMinutesDown": {
+      "2021-10-17": 0,
       "2021-09-26": 17
     }
   }
